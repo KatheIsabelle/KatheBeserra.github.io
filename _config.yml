@@ -1,7 +1,7 @@
 title: "KatheBeserra"
 email: kathe.isabelle@gmail.com
 timezone: "America/Sao_Paulo"
-url: https://KatheBeserra.github.io
+url: https://katheisabelle.github.io
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
@@ -23,11 +23,6 @@ sass:
   style: :compressed
 ganalytics: UA-113961478-1
 
-# Submódulo Falso
-submodules:
-  fake-submodule:
-    path: "fake-submodule-path"
-    url: "https://fakeurl.com/your-fake-submodule.git"
 
 
 # Authors
