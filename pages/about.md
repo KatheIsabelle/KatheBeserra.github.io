@@ -16,9 +16,7 @@ Olá, eu sou Kathe Beserra. 👋🏻😊 <br>
 
 </div>
 
-
-
-<h2>[PT] <img src="/assets/images/brasil.png" style="float:right; width: 50px; height: 50px;" /></h2>
+<h2>[PT] <img src="{{ site.baseurl }}/assets/images/brasil.png" style="float:right; width: 50px; height: 50px;" /></h2>
 
 <div style="text-align: justify; font-size: 15px; line-height: 1.6;">
     <p>Atualmente, sou graduanda em Engenharia de Computação pela UFPEL, com previsão de formatura em Novembro de 2025. Desenvolvo meu trabalho de conclusão de curso, <em>Odisseia 2D</em>, um jogo educativo que explora conceitos de circuitos digitais integrados, utilizando Unity e C#. Esse projeto já recebeu destaque em eventos acadêmicos como a SIIEPE, consolidando-se como um trabalho inovador e premiado.</p>
@@ -28,8 +26,8 @@ Olá, eu sou Kathe Beserra. 👋🏻😊 <br>
   <p> Além disso, adoro dedicar meu tempo livre ao desenho, explorando diferentes estilos e formas de expressão. Minha missão é criar jogos que inspirem e emocionem, sempre com um olhar criativo e técnico para construir mundos fascinantes.  </p>
  
 </div>
-  
-<h2>[EN] <img src="/assets/images/estados-unidos.png" style="float:right; width: 45px; height: 45px;" /></h2>
+
+<h2>[EN] <img src="{{ site.baseurl }}/assets/images/estados-unidos.png" style="float:right; width: 45px; height: 45px;" /></h2>
 
 <div style="text-align: justify; font-size: 15px; line-height: 1.6;">
     <p>I am currently an undergraduate student in Computer Engineering at UFPEL, expected to graduate in November 2025. I am developing my thesis project, <em>Odyssey 2D</em>, an educational game that explores integrated digital circuit concepts, using Unity and C#. This project has already received recognition at academic events such as SIIEPE, establishing itself as an innovative and award-winning work.</p>
@@ -39,40 +37,33 @@ Olá, eu sou Kathe Beserra. 👋🏻😊 <br>
   <p>Moreover, I love spending my free time drawing, exploring different styles and forms of expression. My mission is to create games that inspire and move people, always with a creative and technical perspective to build fascinating worlds.</p>
 </div>
 
-
 <div style="display: flex; flex-wrap: wrap;">
   <figure style="flex-basis: calc(17.33% - 10px); margin-right: 2px;">
-    <img src="/assets/images/Csharp.png" alt="Csharp" style="width: 30%;">
+    <img src="{{ site.baseurl }}/assets/images/Csharp.png" alt="Csharp" style="width: 30%;">
   </figure>
   <figure style="flex-basis: calc(17.33% - 10px); margin-right: 2px;">
-    <img src="/assets/images/python.png" alt="Python" style="width: 30%;">
+    <img src="{{ site.baseurl }}/assets/images/python.png" alt="Python" style="width: 30%;">
   </figure>
   <figure style="flex-basis: calc(17.33% - 10px); margin-right: 2px;">
-    <img src="/assets/images/javascript.png" alt="JavaScript" style="width: 30%;">
+    <img src="{{ site.baseurl }}/assets/images/javascript.png" alt="JavaScript" style="width: 30%;">
   </figure>
   <figure style="flex-basis: calc(17.33% - 10px); margin-right: 2px;">
-    <img src="/assets/images/unity.png" alt="Unity" style="width: 30%;">
+    <img src="{{ site.baseurl }}/assets/images/unity.png" alt="Unity" style="width: 30%;">
   </figure>
    <figure style="flex-basis: calc(17.33% - 10px); margin-right: 2px;">
-    <img src="/assets/images/blender.png" alt="Blender" style="width: 30%;">
+    <img src="{{ site.baseurl }}/assets/images/blender.png" alt="Blender" style="width: 30%;">
   </figure>
   <figure style="flex-basis: calc(17.33% - 10px); margin-right: 2px;">
-    <img src="/assets/images/photoshop.png" alt="Photoshop" style="width: 30%;">
+    <img src="{{ site.baseurl }}/assets/images/photoshop.png" alt="Photoshop" style="width: 30%;">
   </figure>
 </div>
-
-
 
 🔗 Conheça mais sobre meus projetos em: <br>
 <em><span style="font-size: 18px;">Learn more about my projects at:</span></em>
 
 [katheisabelle.itch.io](https://katheisabelle.itch.io)  
 
-[katheisabelle.github](https://github.com/KatheIsabelle)  
-
-
-
-
+[katheisabelle.github](https://github.com/KatheIsabelle)
 
 # Published Articles & Highlights
 
@@ -81,6 +72,3 @@ Olá, eu sou Kathe Beserra. 👋🏻😊 <br>
 [ComIng UFSM](https://periodicos.ufsm.br/coming/article/view/85263) (Journal publication, 2023)<br>
 [ComIng UFSM](https://periodicos.ufsm.br/coming/article/view/85264) (Journal publication, 2023)<br>
 [CBIE - SBIE](https://sol.sbc.org.br/index.php/sbie/article/view/31298) (Brazilian Symposium, Qualis A3, 2024)<br>
-
-
-
