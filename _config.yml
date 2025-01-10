@@ -2,7 +2,7 @@ title: "KatheBeserra"
 email: kathe.isabelle@gmail.com
 timezone: "America/Sao_Paulo"
 url: https://katheisabelle.github.io
-baseurl: "Portfolio2/affiliates-jekyll-theme"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
