@@ -18,7 +18,7 @@ Olá, eu sou Kathe Beserra. 👋🏻😊 <br>
 
 
 
-<h2>[PT] <img src="/affiliates-jekyll-theme/assets/images/brasil.png" style="float:right; width: 50px; height: 50px;" /></h2>
+<h2>[PT] <img src="/assets/images/brasil.png" style="float:right; width: 50px; height: 50px;" /></h2>
 
 <div style="text-align: justify; font-size: 15px; line-height: 1.6;">
     <p>Atualmente, sou graduanda em Engenharia de Computação pela UFPEL, com previsão de formatura em Novembro de 2025. Desenvolvo meu trabalho de conclusão de curso, <em>Odisseia 2D</em>, um jogo educativo que explora conceitos de circuitos digitais integrados, utilizando Unity e C#. Esse projeto já recebeu destaque em eventos acadêmicos como a SIIEPE, consolidando-se como um trabalho inovador e premiado.</p>
@@ -29,7 +29,7 @@ Olá, eu sou Kathe Beserra. 👋🏻😊 <br>
  
 </div>
   
-<h2>[EN] <img src="/affiliates-jekyll-theme/assets/images/estados-unidos.png" style="float:right; width: 45px; height: 45px;" /></h2>
+<h2>[EN] <img src="/assets/images/estados-unidos.png" style="float:right; width: 45px; height: 45px;" /></h2>
 
 <div style="text-align: justify; font-size: 15px; line-height: 1.6;">
     <p>I am currently an undergraduate student in Computer Engineering at UFPEL, expected to graduate in November 2025. I am developing my thesis project, <em>Odyssey 2D</em>, an educational game that explores integrated digital circuit concepts, using Unity and C#. This project has already received recognition at academic events such as SIIEPE, establishing itself as an innovative and award-winning work.</p>
@@ -42,22 +42,22 @@ Olá, eu sou Kathe Beserra. 👋🏻😊 <br>
 
 <div style="display: flex; flex-wrap: wrap;">
   <figure style="flex-basis: calc(17.33% - 10px); margin-right: 2px;">
-    <img src="/affiliates-jekyll-theme/assets/images/Csharp.png" alt="Csharp" style="width: 30%;">
+    <img src="/assets/images/Csharp.png" alt="Csharp" style="width: 30%;">
   </figure>
   <figure style="flex-basis: calc(17.33% - 10px); margin-right: 2px;">
-    <img src="/affiliates-jekyll-theme/assets/images/python.png" alt="Python" style="width: 30%;">
+    <img src="/assets/images/python.png" alt="Python" style="width: 30%;">
   </figure>
   <figure style="flex-basis: calc(17.33% - 10px); margin-right: 2px;">
-    <img src="/affiliates-jekyll-theme/assets/images/javascript.png" alt="JavaScript" style="width: 30%;">
+    <img src="/assets/images/javascript.png" alt="JavaScript" style="width: 30%;">
   </figure>
   <figure style="flex-basis: calc(17.33% - 10px); margin-right: 2px;">
-    <img src="/affiliates-jekyll-theme/assets/images/unity.png" alt="Unity" style="width: 30%;">
+    <img src="/assets/images/unity.png" alt="Unity" style="width: 30%;">
   </figure>
    <figure style="flex-basis: calc(17.33% - 10px); margin-right: 2px;">
-    <img src="/affiliates-jekyll-theme/assets/images/blender.png" alt="Blender" style="width: 30%;">
+    <img src="/assets/images/blender.png" alt="Blender" style="width: 30%;">
   </figure>
   <figure style="flex-basis: calc(17.33% - 10px); margin-right: 2px;">
-    <img src="/affiliates-jekyll-theme/assets/images/photoshop.png" alt="Photoshop" style="width: 30%;">
+    <img src="/assets/images/photoshop.png" alt="Photoshop" style="width: 30%;">
   </figure>
 </div>
 
