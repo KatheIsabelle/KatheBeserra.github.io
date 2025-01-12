@@ -60,8 +60,9 @@ image: assets/images/emoji1.png
 
 # Published Articles & Highlights
 
+[CBIE - SBIE](https://sol.sbc.org.br/index.php/sbie/article/view/31298) (Brazilian Symposium, Qualis A3, 2024)<br>
 [SIIEPE - CIC](https://cti.ufpel.edu.br/siepe/arquivos/2023/CE_04120.pdf) (Highlight project session, 2023)<br>
-[SIIEPE - CEG](https://cti.ufpel.edu.br/siepe/arquivos/2023/G1_06127.pdf) (Highlight project session, 2023)<br>
+[SIIEPE - CEG](https://cti.ufpel.edu.br/siepe/arquivos/2023/G1_06127.pdf) (Published article, 2023)<br>
+[SIIEPE - CEG](https://cti.ufpel.edu.br/siepe/arquivos/2023/G2_05582.pdf) (Highlight project session, 2023)<br>
 [ComIng UFSM](https://periodicos.ufsm.br/coming/article/view/85263) (Journal publication, 2023)<br>
 [ComIng UFSM](https://periodicos.ufsm.br/coming/article/view/85264) (Journal publication, 2023)<br>
-[CBIE - SBIE](https://sol.sbc.org.br/index.php/sbie/article/view/31298) (Brazilian Symposium, Qualis A3, 2024)<br>
