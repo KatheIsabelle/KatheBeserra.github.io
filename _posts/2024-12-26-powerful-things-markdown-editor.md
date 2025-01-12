@@ -3,7 +3,7 @@ layout: post
 title:  "TNT Party Game"
 author: Kathe Beserra
 categories: [ 3D, Colorful, Cyberpunk, Multiplayer, Mini-Games, Party-Game, Unity, Indie ]
-image: assets/images/menu.png
+image: affiliates-jekyll-theme\assets\images\menu.png
 ---
 
 **Plataform:** Windows<br> 

@@ -45,6 +45,10 @@ social:
   twitter: https://x.com/maquinadaflo
 
 
+exclude:
+  - README.md
+  - .gitignore
+  - assets
 
 
 # Plugins
