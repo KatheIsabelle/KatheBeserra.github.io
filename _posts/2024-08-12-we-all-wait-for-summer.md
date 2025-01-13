@@ -3,7 +3,7 @@ layout: post
 title:  "Odisseia 2D: Exploring logical pathways"
 categories: [ 2D, Educational Games, Digital Circuit, Puzzle, Indie, Singleplayer, Top down shooter, Unity ]
 author: Kathe Beserra
-image: assets/images/fasecompleta.PNG
+image: assets/images/fasecompleta.png
 ---
 
 **Plataform:** Windows<br> 
