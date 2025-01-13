@@ -8,7 +8,7 @@ image: assets/images/menu.png
 
 **Plataform:** Windows<br> 
 **Year:** 2024<br>
-**Roles:** as a game designer, game developer, level design, UI design, modelling artist, and tester.<br>
+**Roles:** as a game designer, game developer, level design, UI design, modeling artist, and tester.<br>
 [Download itch.io](https://katheisabelle.itch.io/tnt-party-game)
 
 
