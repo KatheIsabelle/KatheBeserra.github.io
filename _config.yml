@@ -1,4 +1,4 @@
-title: "KatheBeserra"
+title: "Kathe Beserra - Portfolio"
 email: kathe.isabelle@gmail.com
 timezone: "America/Sao_Paulo"
 url: https://kathebeserra.github.io
@@ -11,7 +11,7 @@ paginate: 30
 disqus: 'demowebsite'
 locale: en_us
 lang: en_us
-feed_items: 10
+feed_items: 10  
 feed_update_period: daily
 feed_update_frequency: 1
 markdown: kramdown
