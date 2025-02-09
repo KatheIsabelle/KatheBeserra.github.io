@@ -3,7 +3,7 @@ email: kathe.isabelle@gmail.com
 timezone: "America/Sao_Paulo"
 url: https://katheisabelle.github.io
 baseurl: ""
-permalink: "/:title/"
+permalink: "permalink: /:year/:month/:day/:title.html"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Kathe Beserra
