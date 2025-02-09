@@ -1,7 +1,7 @@
 title: "Kathe Beserra - Portfolio"
 email: kathe.isabelle@gmail.com
 timezone: "America/Sao_Paulo"
-url: https://kathebeserra.github.io
+url: https://katheisabelle.github.io
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
@@ -32,7 +32,7 @@ authors:
     display_name: Kathe Beserra
     avatar: 'assets/images/me.jpg'
     email: kathe.isabelle@gmail.com
-    web:  https://KatheBeserra.github.io
+    web:  https://katheBeserra.github.io
     description: "Author of the site and a computer engineering student who loves technology, art, and games."
   
 
